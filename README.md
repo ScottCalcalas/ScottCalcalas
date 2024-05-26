@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ScottCalcalas
-- 👀 I’m interested in uni
-- 🌱 I’m currently learning stat
-- 💞️ I’m looking to collaborate on dsCancel changes
-- 📫 How to reach me email 
-- ok, now turns to fucking learning 
+- 👀 I’m interested in Neural Networks
+- 🌱 I’m currently learning RNA seq, Homer
+- 💞️ I’m looking to collaborate on cancer, gambling behavior
+- 📫 Contact: statzxp@gmail.com 
+- ok, now let's turn to learning new stuff!!!
 
