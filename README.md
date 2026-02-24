@@ -8,4 +8,7 @@ My Experience:
 2. Work at Northwestern University - Feinberg School of Medicine as Research Tech, Lab Manager
 
 
-
+Products Available on Github:
+1.  XZDBfunction ()
+2.  XYZsoftware
+3.  GCNN (code for a machine learning paper)
