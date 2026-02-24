@@ -10,6 +10,6 @@ My Experience:
 
 Products Available on Github:
 1.  XZDBfunction (R package: Multi-Omics Database Browser)
-2.  GCNN (code for a machine learning paper)
+2.  GCNN (Code for a machine learning paper)
 3.  XYZsoftware (Client Behavior Prediction Software on Python)
 
