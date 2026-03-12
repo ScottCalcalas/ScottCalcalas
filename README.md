@@ -9,7 +9,7 @@ My Experience:
 
 
 Products Available on Github:
-1.  XZDBfunction (R package: Multi-Omics Database Browser)
-2.  GCNN (Code for a machine learning paper)
-3.  XYZsoftware (Client Behavior Prediction Software on Python)
+1.  XZDBfunction (R package: Multi-Omics Database Browser - R code)
+2.  GCNN (Code for a machine learning paper - MATLAB, R, Python Code)
+3.  XYZsoftware (Client Behavior Prediction Software - Python Code)
 
