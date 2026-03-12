@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Xiaopei Zhang (@ScottCalcalas)
+👋 Hi, I’m Xiaopei Zhang (@ScottCalcalas)
 - Interest: Medical data science/ Clinical trails / Biostatistics.
 - Contact: statzxp@gmail.com or xiaopei.zhang@northwestern.edu
 - Seeking for new opportunities @ AI/Med/Biostat/Bioinfo
